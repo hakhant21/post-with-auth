@@ -32,13 +32,13 @@
                 @enderror
             </div>
             <div class="mb-4">
-                <div class="flex jutify-center">
+                <div class="flex items-center">
                     <input type="checkbox" name="remember" id="remember" class="mr-2">
-                    <label for="remember">Remember Me</label>
+                    <label for="remember" class="text-small">Remember me ?</label>
                 </div>
             </div>
             <div class="mb-4">
-               <button type="submit" class="bg-blue-400 p-4 rounded font-medium w-full">Login</button>
+               <button type="submit" class="bg-blue-400 p-4 rounded font-medium w-full text-white">Login</button>
             </div>
         </form>
        </div>
